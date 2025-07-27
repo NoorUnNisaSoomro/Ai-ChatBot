@@ -3,14 +3,23 @@ A sleek, responsive AI chatbot built in ReactJS, powered by Gemini 2.0 Flash API
 
 # 🚀 Features
 ✅ Real-Time Chat with Gemini 2.0 Flash model
+
 🌓 Dark / Light Mode toggle with system preference detection
+
 💾 Persistent Conversations using localStorage
+
 💬 Multiple Chat Sessions (create, delete, rename)
+
 📄 Export Chat as .txt
+
 🧹 Clear Chat History with confirmation
+
 🎯 Typing Indicator & Smooth Auto-Scroll
+
 📱 Fully Responsive UI for mobile, tablet, and desktop
+
 🔐 API Key Securely Managed (in dev only)
+
 🖼️ Preview
 
 # 🧰 Tech Stack
